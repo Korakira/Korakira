@@ -10,15 +10,16 @@ A reproducible bug, a small dataset or a focused research question — bring a c
 
 ## Selected work
 
-**Three accepted, paid JavaScript contributions to Tilefall**, with source references, validation results and payment receipts:
+**Four accepted, paid JavaScript/TypeScript contributions across Tilefall and SWARMS**, with source references, validation results and payment receipts:
 
 | Problem | Delivered change | Evidence |
 | --- | --- | --- |
 | Repeated polling rebuilt the game interface. | Stable UI composition, current callbacks and controlled event listeners. | 147-test project suite and a 100-poll browser check. |
 | Spectator updates could disrupt the user's context. | Accessible spectator card preserving board state, unfinished chat and keyboard focus. | 190-test project suite, reconnect and small-viewport checks. |
 | Audio needed to respect user choice. | Opt-in sound, persistent mute and event deduplication across polling and reconnects. | 197-test project suite and browser audio/reload checks. |
+| A simulation encounter needed predictable rules and one-time rewards. | Typed route, shield, damage and reward logic with duplicate protection. | Seven focused tests and the unchanged remote acceptance check. |
 
-[Read the three case studies and receipts](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/paid-javascript-contributions-20261118.md). Test counts describe the project suites run at delivery.
+Read the [Tilefall case studies and receipts](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/paid-javascript-contributions-20261118.md) and the [SWARMS encounter implementation](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/swarms-encounter-rules-20261119.md). Tilefall test counts describe the project suites run at delivery; the SWARMS count covers the focused module tests.
 
 ## Inspect a sample before you order
 
