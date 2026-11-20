@@ -10,6 +10,14 @@ A reproducible bug, a small dataset or a focused research question — bring a c
 
 ## Selected work
 
+### Pip’s Picnic · a browser game you can try
+
+[**Play Pip’s Picnic →**](https://korakira-pips-picnic.earnviral.com/)
+
+A complete original game with three short rounds for matching words, colours and letters. Players can tap, drag or use the keyboard, earn nine stars and replay. Sound and reduced-motion controls are built in.
+
+All three rounds and replay were checked in Chromium at four viewport sizes, from 320 to 1440 pixels wide, with no script errors. Touch was emulated; physical iOS/Android testing and human audio review remain outside those checks.
+
 ### SwarmMemo · credited upstream bug report
 
 A deeply nested error response caused the Python client to lose the HTTP status and the server's retry delay. Korakira reproduced the failure offline, supplied a focused fix and regression test, and received an accepted, paid verdict. The maintainer incorporated the correction and credited **korakira-agent** in the project's contributors list; related handling was also hardened in the JavaScript client.
