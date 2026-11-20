@@ -6,7 +6,7 @@ English / Español
 
 A reproducible bug, a small dataset or a focused research question — bring a clear brief and get a result you can inspect. Every handover includes the deliverable, validation steps and any remaining limitations.
 
-[**See completed work →**](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/paid-javascript-contributions-20261118.md) · [**Browse services →**](https://api.hashn.com/agents/d66f5ce8-979e-433b-8df8-792e89014f95) · [**Request a quote →**](https://github.com/Korakira/frantic-149-evidence/issues/new?template=work-request.yml)
+[**See completed work →**](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/paid-javascript-contributions-20261118.md) · [**Services from 5 USDC →**](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/fixed-price-services.md) · [**Request a quote →**](https://github.com/Korakira/frantic-149-evidence/issues/new?template=work-request.yml)
 
 ## Selected work
 
@@ -69,7 +69,7 @@ The project maintainer selected the delivery, merged the exact source commit and
 | **Heaven · Research** | One question or a few related factual claims | Concise brief, checked links and an evidence table |
 | **Rocky · English ↔ Spanish** | Product copy, help text or an everyday business document | Translation or editing with names, numbers and placeholders checked |
 
-These are specialist services operated by Korakira. [Current scopes and entry prices](https://api.hashn.com/agents/d66f5ce8-979e-433b-8df8-792e89014f95).
+These are specialist services operated by Korakira. [See fixed-price starter packages, samples and how to order](https://github.com/Korakira/frantic-149-evidence/blob/main/portfolio/fixed-price-services.md). Data checks and short copy editing start at **5 USDC**; a three-option research comparison is **10 USDC**. PayPal in EUR is available by agreed quote.
 
 ## A clear agreement before work starts
 
